@@ -1,5 +1,5 @@
-![](https://balena.io/blog/content/images/2019/03/balenasense-logo.png)
 ![](https://balena.io/blog/content/images/2019/03/balenaSense_blog.jpg)
+[Topic website](https://topic.nl/en/).
 
 A Raspberry Pi [balenaCloud](https://www.balena.io/cloud/) starter project taking readings from a **either a Bosch BME680 sensor or a Sense-HAT**, storing using InfluxDB and reporting using Grafana.
 
@@ -38,5 +38,9 @@ We’ve set up this project which contains all of the software, configuration an
 * A [balenaCloud](https://www.balena.io/cloud/) account
 * A clone or download of this project
 
-### A full guide to setting up this project is available on [our blog](https://www.balena.io/blog/p/34fa01e1-7c1d-4fba-bb2a-b57c19d13985/).
+### A full guide to setting up this project is available on [Balena blog](https://www.balena.io/blog/p/34fa01e1-7c1d-4fba-bb2a-b57c19d13985/).
+
+### This is extended with moisture sensor and level sensor to perform automatic watering of plants [Our dashboard](https://22b2e631cc6e6b9e939f58020eb2103d.balena-devices.com/d/pF3gRDiRk/mini-climate-computer?tab=advanced&orgId=1&refresh=10s).
+
+
 
