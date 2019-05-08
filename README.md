@@ -1,6 +1,6 @@
 ![](https://balena.io/blog/content/images/2019/03/balenasense-logo.png)
 ![](https://balena.io/blog/content/images/2019/03/balenaSense_blog.jpg)
-[our website](https://topic.nl/en/).
+[Topic website](https://topic.nl/en/).
 
 A Raspberry Pi [balenaCloud](https://www.balena.io/cloud/) starter project taking readings from a **either a Bosch BME680 sensor or a Sense-HAT**, storing using InfluxDB and reporting using Grafana.
 
