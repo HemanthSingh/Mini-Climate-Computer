@@ -1,4 +1,3 @@
-![](https://balena.io/blog/content/images/2019/03/balenasense-logo.png)
 ![](https://balena.io/blog/content/images/2019/03/balenaSense_blog.jpg)
 [Topic website](https://topic.nl/en/).
 
