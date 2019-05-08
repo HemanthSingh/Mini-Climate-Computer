@@ -38,5 +38,5 @@ We’ve set up this project which contains all of the software, configuration an
 * A [balenaCloud](https://www.balena.io/cloud/) account
 * A clone or download of this project
 
-### A full guide to setting up this project is available on [our blog](https://www.balena.io/blog/p/34fa01e1-7c1d-4fba-bb2a-b57c19d13985/).
+### A full guide to setting up this project is available on [Balena blog](https://www.balena.io/blog/p/34fa01e1-7c1d-4fba-bb2a-b57c19d13985/).
 
